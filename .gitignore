@@ -1,6 +1,6 @@
 target/
 *.log
+*.pem
+.env
 .idea/
-*.iml
 .vscode/
-.DS_Store
